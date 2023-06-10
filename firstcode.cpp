@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-    int x;
-    cin >> x;
-    cout << "Value of x: " << x;
+    int y;
+    cin >> y;
+    cout << "Value of x: " << y;
     return 0;
 }
